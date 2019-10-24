@@ -17,7 +17,7 @@
 ![screenshot](https://github.com/NikkyAmresh/excel-manager/raw/master/Screenshots/2.png)
 ---
 
-### Result:
+### After sumbiting the file:
 ![screenshot](https://github.com/NikkyAmresh/excel-manager/raw/master/Screenshots/3.png)
 
 
